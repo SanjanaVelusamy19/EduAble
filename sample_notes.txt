@@ -1,0 +1,5 @@
+These are sample notes for a demo. Topic: Basic science facts.
+- Water's chemical formula is H2O.
+- The Earth orbits the Sun.
+
+You can expand this file to let the assistant reference notes in Phase 2.

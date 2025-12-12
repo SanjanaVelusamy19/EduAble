@@ -1,0 +1,22 @@
+[
+  {
+    "q": "What is the capital of France?",
+    "options": [
+      "A) Berlin",
+      "B) Madrid",
+      "C) Paris",
+      "D) Rome"
+    ],
+    "answer": "C"
+  },
+  {
+    "q": "What is 2 + 2?",
+    "options": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 22"
+    ],
+    "answer": "B"
+  }
+]
